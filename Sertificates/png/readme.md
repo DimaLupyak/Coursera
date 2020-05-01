@@ -1,4 +1,4 @@
-![AI For Everyone](/AI-For-Everyone.png)
+![AI For Everyone](/png/AI-For-Everyone.png)
 ![Continuous Delivery and DevOps](/Continuous-Delivery-and-DevOps.png)
 ![Programming for Everybody](/Programming-for-Everybody.png)
 ![Python Data Structures](/Python-Data-Structures.png)
